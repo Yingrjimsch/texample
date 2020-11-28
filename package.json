@@ -1,0 +1,11 @@
+{
+  "name": "texample",
+  "version": "1.0.0",
+  "description": "This is a node package to get different example text for your project.",
+  "main": "texample.js",
+  "scripts": {
+    "test": "node test && echo ✔"
+  },
+  "author": "Yingrjimsch",
+  "license": "ISC"
+}
