@@ -4,7 +4,7 @@
   "description": "This is a node package to get different example text for your project.",
   "main": "texample.js",
   "scripts": {
-    "test": "node test && echo ✔"
+    "test": "node test && echo ✔ Tests Completet ✔"
   },
   "author": "Yingrjimsch",
   "license": "ISC"
